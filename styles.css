@@ -167,3 +167,28 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+.centered-heading {
+    text-align: center;
+}
+
+.centered-heading2{
+    text-align: center;
+}
+
+
+.contact-container {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 3px solid #333;
+    border-radius: 10px;
+}
+
+.footer-container {
+    text-align: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+
